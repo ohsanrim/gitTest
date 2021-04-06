@@ -1,45 +1,7 @@
 <!DOCTYPE html>
 <html lang="ko">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="웹개발자 곽하린, 포트폴리오">
-    <meta name="keywords" content="웹개발자 곽하린,포트폴리오">
-    <meta name="robots" content="all">
-
-    <title>웹개발자 곽하린 포트폴리오</title>
-
-    <link rel="apple-touch-icon" href="images/apple-icon-60x60.png">
-    <link rel="apple-touch-icon" sizes="76x76" href="images/apple-icon-76x76.png">
-    <link rel="apple-touch-icon" sizes="120x120" href="images/apple-icon-120x120.png">
-    <link rel="apple-touch-icon" sizes="152x152" href="images/apple-icon-152x152.png">
-
-    <!--font-family: 'Black Han Sans', sans-serif;-->
-    <link href="https://fonts.googleapis.com/css?family=Black+Han+Sans&display=swap" rel="stylesheet">
-    <!--font-family: 'Noto Sans KR', sans-serif;-->
-    <link href="https://fonts.googleapis.com/css?family=Noto+Sans+KR:100,300,400,500,700,900&display=swap&subset=korean" rel="stylesheet">
-
-    <link rel="stylesheet" href="css/imagehover.min.css">
-    <link rel="stylesheet" href="css/portfolio.css">
-    <link rel="stylesheet" href="css/hover.css">
-    <link rel="stylesheet" href="css/magic.css">
-
-    <!--csshake-->
-    <link rel="stylesheet" type="text/css" href="https://csshake.surge.sh/csshake.min.css">
-    <!--AOS 라이브러리-->
-    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
-    <!--AOS 라이브러리-->
-    <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
-    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@900&display=swap" rel="stylesheet">
-    <!-- Font Awesome icons (free version)-->
-    <script src="https://use.fontawesome.com/releases/v5.13.0/js/all.js" crossorigin="anonymous"></script>
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-    <script src="js/jquery.easing.1.3.js"></script>
-    <script src="js/jquery.easing.compatibility.js"></script>
-    <script src="js/jquery.touchSwipe.min.js"></script>
-    <script src="js/progressbar.js"></script>
-    <script src="js/jquery.ui.ipad.js"></script>
-    <script src="js/portfolio.js"></script>
+   
 
 </head>
 
@@ -53,6 +15,11 @@
     </div>
     <nav>
         <ol>
+            <li>about</li>
+            <li>skill</li>
+            <li>work1</li>
+            <li>work2</li>
+            <li>contact</li>
             <li>about</li>
             <li>skill</li>
             <li>work1</li>
@@ -76,6 +43,7 @@
             <p class="preview-item small shake-slow shake-constant shake-constant--hover">R</p>
             <p class="preview-item small shake-little shake-constant shake-constant--hover">i</p>
             <p class="preview-item small shake-slow shake-constant shake-constant--hover" style="animation-duration: 6s;">n</p>
+             <p class="preview-item small shake-slow shake-constant shake-constant--hover" style="animation-duration: 6s;">n</p>
         </div>
     </div>
 
@@ -121,6 +89,10 @@
                   <span id="educationDate">2020.03</span><br>
                   <span>호서대학교 법경찰학과(졸업)</span><br>
                   <span class="certificate_ex2">[졸업논문] 사이버 범죄의 효과적 대응방안에 관한 연구</span>
+                  <span class="certificate_ex1">- 비트교육센터</span><br>
+                  <span id="educationDate">2020.03</span><br>
+                  <span>호서대학교 법경찰학과(졸업)</span><br>
+                  <span class="certificate_ex2">[졸업논문] 사이버 범죄의 효과적 대응방안에 관한 연구</span>ss
               </div>
               <div class="certificate info">
                   <h1>CERTIFICATE</h1>
@@ -306,6 +278,11 @@
         </div>
     </div>
     <!---->
+    <!-- !!!!!!!!!깃 머지 용 데이터 수정!!!!!!!! -->
+    <!-- !!!!!!!!!깃 머지 용 데이터 수정!!!!!!!! -->
+    <!-- !!!!!!!!!깃 머지 용 데이터 수정!!!!!!!! -->
+    <!-- !!!!!!!!!깃 머지 용 데이터 수정!!!!!!!! -->
+    <!-- !!!!!!!!!깃 머지 용 데이터 수정!!!!!!!! -->
     <!-- Modal -->
   <div class="modal-wrapper">
     <div class="modal">
