@@ -103,18 +103,3 @@ public class test {
 			}
 		}
 	}
-	/*
-	 
-	 
-	8
-	RRRBBBRR
-	RRRBBBRR 
-	GGRRBBBB
-	BBBBGGRR
-	BBGGRRBB 
-	GRGRGRGR 
-	GRGRGRGR 
-	BBGRBBGR
-	 * 
-	 * 
-	 */
